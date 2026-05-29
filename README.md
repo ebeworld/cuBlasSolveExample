@@ -8,12 +8,14 @@ https://github.com/ebeworld/cuBlasSolveExample.git
 
 ## Build
 
+```bash
 rmdir /s /q build
 mkdir build
 cd build
 
 cmake ..
 cmake --build . --config Release
+```
 
 ## Execute
 
