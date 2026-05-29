@@ -1,4 +1,4 @@
-#Solving Lnear Equations Using CUDA
+#Solving A Linear Equation Using CUDA
 
 ## Enlist code
 
